@@ -1,0 +1,221 @@
+*{
+  margin:0px;
+  padding: 0px;
+  background-color: #f1f1f1;
+}
+.navbar{
+  display: flex;
+  height: 15vh;
+}
+.menu{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.undermenu{
+  font-size: 15px;
+  padding-left: 10px;
+}
+nav h1,h2{
+  display: inline;
+}
+nav h2{
+  padding-left: 420px;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 0 85px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -40px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  margin-top: 10px;
+  text-align: left;
+  width: 608px;
+  height: 165px;
+  background-color: white;
+  border-radius: 15px
+}
+.card1{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  margin-top: 10px;
+  width: 500px;
+  height: 525px;
+  padding-right: 20px;
+  background-color: white;
+  border-radius: 15px;
+
+}
+.card3{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  margin-top: 10px;
+  width: 617px;
+  height: 350px;
+  padding-right: 20px;
+  background-color: white;
+  border-radius: 15px;
+
+}
+.nav2{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 22px;
+  color: #ff5319;
+}
+.chart-container{
+  position: relative;
+  width: 25vw;
+  background-color: white;
+  float: left;
+  width: 50%;
+}
+#chart{
+
+  background-color: white;
+  height: 20px;
+  width: 30px;
+}
+#chart1{
+
+  background-color: white;
+  height: 20px;
+  width: 30px;
+}
+.nav3{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 15px 22px;
+  
+}
+.nav4{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 26px;
+  
+}
+/*.nav5{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 22px;
+  
+}*/
+.nav6{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 26px;
+  
+}
+.nav7{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 32px;
+  
+}
+.nav8{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 20px;
+  
+}
+.nav9{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 38px;
+  
+}
+.nav10{
+  background-color: white;
+  display: inline-table;
+  font-size: 15px;
+  padding: 22px;
+  
+}
+.btn1{
+  background-color: rgba(255, 0, 0, 0.2);;
+  border-radius: 5px;
+  border-style: none;
+  padding-top: 5px;
+  padding: 8px;
+  display: inline;
+  color:red;
+  margin-top: 20px;
+  margin-left: 10px;
+
+}
+.btn2{
+  background-color: rgba(0, 0, 255, 0.2);
+  border-radius: 5px;
+  border-style: none;
+  padding-top: 25px;
+  padding: 8px 30px;
+  display: inline;
+  color:blue;
+  margin-top: 20px;
+  margin-left: 10px;
+
+}
+.btn3{
+  background-color:  rgba(0,255,0,0.2);
+  border-radius: 5px;
+  border-style: none;
+  padding-top: 5px;
+  padding:8px 15px;
+  display: inline;
+  color:green;
+  margin-top: 20px;
+  margin-left: 6px;
+
+}
+.btn4{
+  background-color: rgba(255,255,0,0.2);
+  border-radius: 5px;
+  border-style: none;
+  padding:8px 15px;
+  padding-top: 5px;
+  display: inline;
+  color:black;
+  margin-top: 20px;
+  margin-left: 9px;
+
+}
+#pbtn1{
+  background-color:rgba(255, 0, 0, 0.2);
+
+}
+#pbtn2{
+  background-color: (0,0,255,0.2);
+}
+#pbtn3{
+  background-color: rgba(0,255,0.2);
+}
+.can2{
+  display: inline-block;
+}
+
+
